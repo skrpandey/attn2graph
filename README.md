@@ -1,6 +1,11 @@
-# Transformers from Scratch
+# Attn2Graph: From Attention Mechanisms to Graph Attention Networks (GAT)
 
-This repository is a hands-on learning guide to understand and implement Transformer architectures from scratch using PyTorch.
+
+A step-by-step exploration of attention mechanisms, their role in Transformers, and extension to Graph Neural Networks (GAT). This repo covers implementations from scratch, tutorials, and applications.
+
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-blue)
+![GitHub](https://img.shields.io/badge/Framework-PyTorch/Lightning-red)
+![GitHub](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
